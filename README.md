@@ -5,6 +5,7 @@ Gamer's Archive is a Java-based application that provides a command-line interfa
 
 ## Project Structure
 
+```
 GAMER'S ARCHIVE/
 │
 ├── README.md                          # Main documentation file for the overall project
@@ -28,6 +29,7 @@ GAMER'S ARCHIVE/
     ├── project-GamersArchive_team-23_insert.sql    # SQL script to insert sample data
     ├── project-GamersArchive_team-23_select.sql    # SQL script for queries
     └── ReadMe_Database.md                          # Database-specific readme
+```
 
 ## Getting Started
 
