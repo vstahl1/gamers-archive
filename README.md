@@ -1,7 +1,7 @@
 
 # Gamer's Archive
 
-Gamer's Archive is a Java-based application that provides a command-line interface (CLI) for managing a video game database. The application connects to a MySQL database and allows users to perform CRUD (Create, Read, Update, Delete) operations on video games, studios, genres, players, and reviews. The project uses Gradle as the build tool to manage dependencies and build the project.
+Gamer's Archive is a Java-based application that provides a command-line interface (CLI) for managing a video game database. The application connects to a MySQL database and allows users to perform CRUD (Create, Read, Update, Delete) operations on video games, studios, genres, players, and reviews. The project uses Gradle as the build tool to manage dependencies and build the project. Video Presentation: https://youtu.be/FdtCldWSaHc
 
 ## Project Structure
 
@@ -121,6 +121,12 @@ private final String DB_PASSWORD = "yourpassword";
 - [MySQL Connector/J Documentation](https://dev.mysql.com/doc/connector-j/en/)
 - [Gradle Official Documentation](https://docs.gradle.org/current/userguide/userguide.html)
 - [Java SE Documentation](https://docs.oracle.com/en/java/)
+
+## Individual Contributions
+- Vivien Stahl: Managed the development of the application’s codebase, SQL scripts, and database integration. Vivien alfo finished the final video presentation, ensuring the project was well-documented and executed smoothly.
+- Robert Goodman: Played an important role in the design phase, contributing to the ER diagram and offering valuable feedback on the application’s structure and overall functionality.
+- Thomas Probert: Provided support in the early stages of the project by contributing to the creation of charts and assisting with initial deliverables. His efforts during the foundational stages were helpful to the team’s progress.
+- Adam King: Contributed by offering insightful suggestions and providing input on the draft deliverables, helping guide the project’s direction from a conceptual perspective.
 
 ## License
 
