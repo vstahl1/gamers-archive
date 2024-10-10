@@ -1,7 +1,7 @@
 
 # Gamer's Archive
 
-Gamer's Archive is a Java-based application that provides a command-line interface (CLI) for managing a video game database. The application connects to a MySQL database and allows users to perform CRUD (Create, Read, Update, Delete) operations on video games, studios, genres, players, and reviews. The project uses Gradle as the build tool to manage dependencies and build the project.
+Gamer's Archive is a Java-based application that provides a command-line interface (CLI) for managing a video game database. The application connects to a MySQL database and allows users to perform CRUD (Create, Read, Update, Delete) operations on video games, studios, genres, players, and reviews. The project uses Gradle as the build tool to manage dependencies and build the project. Video Link: https://youtu.be/FdtCldWSaHc
 
 ## Project Structure
 
